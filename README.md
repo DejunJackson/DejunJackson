@@ -7,7 +7,7 @@ I'm Dejun and I am a self-taught programmer who loves to build things! Fullstack
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with Reactjs or Python
 - 💬 Ask me about anything!
-- 📫 How to reach me: Email: dejunjackson18@gmail.com, Twitter: [Afro_Codes](https://twitter.com/Afro_codes) 
+- 📫 How to reach me: Email: dejunjackson18@gmail.com, Twitter: [Afro_Codes](https://twitter.com/Afro_codes), [Website](https://dejunjackson.com/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I graduated with a B.A. in Psychology/Neuroscience from Ole Miss!
 
