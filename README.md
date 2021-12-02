@@ -2,8 +2,8 @@
 
 I'm Dejun and I am a self-taught programmer who loves to build things! Fullstack Applications, Web Games, or just a simple landing page, you will probably find them all here! One of my 2021 goals is to network with other developers so let's connect!
 
-- 🔭 I’m currently working on a multiplayer madlibs game
-- 🌱 I’m currently learning about socket programming
+- 🔭 I’m currently working on a multiplayer madlibs game using Django and Postgres
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about anything!
