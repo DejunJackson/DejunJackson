@@ -1,6 +1,6 @@
 # Hiya! 👋
 
-I'm Dejun and I am a self-taught programmer who loves to build things! Fullstack Applications, Web Games, or just a simple landing page, you will probably find them all here! One of my 2021 goals is to network with other developers so let's connect!
+I'm Dejun and I am a self-taught programmer who loves to build things! I really enjoy learning new languages and frameworks like Python(Django/Flask) and Javascript(Nodejs), and applying what I've learned in my free time. Fullstack Applications, chat room apps, web-based games, or just a simple landing page, you will probably find them all here! One of my 2021 goals is to network with other developers so let's connect or feel free to fork a project I am working on and/or submit a pull request or two! Thanks for reading!
 
 - 🔭 I’m currently working on a multiplayer madlibs game using Django and Postgres
 - 🌱 I’m currently learning Django
