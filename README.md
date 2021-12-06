@@ -11,3 +11,7 @@ I'm Dejun and I am a self-taught programmer who loves to build things! Fullstack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I graduated with a B.A. in Psychology/Neuroscience from Ole Miss!
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DejunJackson)](https://github.com/DejunJackson/github-readme-stats)
+
