@@ -19,4 +19,5 @@ I'm Dejun and I am a self-taught programmer who loves to build things! Fullstack
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejunJackson)](https://github.com/DejunJackson)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DejunJackson&layout=compact)](https://github.com/DejunJackson)
+
