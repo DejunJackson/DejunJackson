@@ -7,7 +7,7 @@ My name is Dejun and I am a software developer who genuinely enjoys the creativi
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about anything!
-- 📫 How to reach me: Email: dejunjackson18@gmail.com, Twitter: [Afro_Codes](https://twitter.com/Afro_codes), Website: [https://personal-site-v2-alpha.vercel.app/](https://personal-site-v2-alpha.vercel.app/)
+- 📫 How to reach me: Email: dejunjackson18@gmail.com, Twitter: [Afro_Codes](https://twitter.com/Afro_codes), Website: [https://www.dejunjackson.com/](https://www.dejunjackson.com/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I graduated with a B.A. in Psychology/Neuroscience from Ole Miss!
 
